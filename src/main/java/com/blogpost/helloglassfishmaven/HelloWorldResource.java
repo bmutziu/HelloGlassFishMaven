@@ -60,7 +60,7 @@ import javax.ws.rs.Consumes;
  */
 
 @Stateless
-@Path("/helloWorld")
+@Path("/")
 public class HelloWorldResource {
 
     @EJB
